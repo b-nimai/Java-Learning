@@ -12,30 +12,30 @@
 ---
 
 ## Step 0: Environment Setup
-- [ ] Install JDK 17+ (LTS)
-- [ ] Install VS Code "Extension Pack for Java"
-- [ ] Verify setup with Hello World program
+- [x] Install JDK 17+ (LTS)
+- [x] Install VS Code "Extension Pack for Java"
+- [x] Verify setup with Hello World program
 
 ---
 
 ## Phase 1: Core Java Foundations
 
 ### Module 1: Java Basics Refresher
-- [ ] Variables, data types, type casting
-- [ ] Operators and expressions
-- [ ] Control flow: if/else, switch, loops
-- [ ] Arrays and Strings
-- [ ] Methods and method overloading
-- [ ] **Exercise:** Build a simple calculator CLI
+- [x] Variables, data types, type casting
+- [x] Operators and expressions
+- [x] Control flow: if/else, switch, loops
+- [x] Arrays and Strings
+- [x] Methods and method overloading
+- [x] **Exercise:** Build a simple calculator CLI
 
 ### Module 2: Object-Oriented Programming (Deep Dive)
-- [ ] Classes, objects, constructors
-- [ ] `this` keyword, static vs instance
-- [ ] Encapsulation (getters/setters, access modifiers)
-- [ ] Inheritance and `super`
-- [ ] Polymorphism (compile-time & runtime)
-- [ ] Abstract classes vs Interfaces
-- [ ] **Exercise:** Build a mini banking system (Account, SavingsAccount, CurrentAccount)
+- [x] Classes, objects, constructors
+- [x] `this` keyword, static vs instance
+- [x] Encapsulation (getters/setters, access modifiers)
+- [x] Inheritance and `super`
+- [x] Polymorphism (compile-time & runtime)
+- [x] Abstract classes vs Interfaces
+- [x] **Exercise:** Build a mini banking system (Account, SavingsAccount, CurrentAccount)
 
 ### Module 3: Core Java APIs
 - [ ] String, StringBuilder, StringBuffer
@@ -207,11 +207,12 @@
 
 | Phase | Modules | Status |
 |-------|---------|--------|
-| Setup | Step 0 | Not Started |
-| Phase 1: Core Java | Modules 1-7 | Not Started |
-| Phase 2: Intermediate | Modules 8-12 | Not Started |
-| Phase 3: Backend Dev | Modules 13-20 | Not Started |
-| Phase 4: Production | Modules 21-25 | Not Started |
+| Setup | Step 0 | ✅ Completed |
+| Phase 1: Core Java | Modules 1-2 | ✅ Completed (Modules 3-7 pending) |
+| Phase 1: Core Java | Modules 3-7 | ⏳ Pending |
+| Phase 2: Intermediate | Modules 8-12 | ⏳ Not Started |
+| Phase 3: Backend Dev | Modules 13-20 | ⏳ Not Started |
+| Phase 4: Production | Modules 21-25 | ⏳ Not Started |
 
 ---
 
